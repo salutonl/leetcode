@@ -8,6 +8,8 @@ It is daily pratices for leetcode.
 
 [Question 3: Longest substring without repeating characters](./longest_substring_without_repeating_characters.py)
 
+[Question 4: Median Of Two Sorted Array](./Median_of_Two_Sorted_Arrays.py)
+
 [Question 13: Roman to Integer](./roman_to_number.py)
 
 [Question 14: Longest Common Prefix](./longest_common_prefix.py)
