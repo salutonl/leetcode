@@ -18,4 +18,6 @@ It is daily pratices for leetcode.
 
 [Question 14: Longest Common Prefix](./longest_common_prefix.py)
 
+[Question 15: Three Sum](./three_sum.py)
+
 [Question 26: Remove duplicates from sorted array](./remove_duplicates.py)
