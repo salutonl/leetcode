@@ -20,4 +20,6 @@ It is daily pratices for leetcode.
 
 [Question 15: Three Sum](./three_sum.py)
 
+[Question 21: Merge Two Sorted Array](./merge_two_sorted_array.py)
+
 [Question 26: Remove duplicates from sorted array](./remove_duplicates.py)
