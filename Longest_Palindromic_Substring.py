@@ -28,3 +28,26 @@
 #                     return maxOfstring
 
 
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        if len(s) <= 1:
+            return s
+        else:
+            start = 0
+            length = 0
+            maxstring = 0
+            for i in range(len(s) - 1):
+                right = i
+                left = i
+                while right < len(s) - 1 and s[right] == s[right+1]:
+                    right = right + 1
+                i = right + 1
+                while right < len(s) - 1 and s[left - 1] == s[right + 1] and left > 0:
+                    left -= 1
+                    right += 1
+                if right - left + 1 > maxstring:
+                    maxstring = right - left + 1
+                    start = left
+            return s[start: start + maxstring]
+            
+        
