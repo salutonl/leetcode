@@ -1,2 +1,5 @@
 .DS_Store
 .idea*
+.vscode*
+c_code/assign_cookies.dSYM*
+c_code/assign_cookies
