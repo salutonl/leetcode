@@ -16,7 +16,7 @@ class Solution:
                         dp[i][j] = dp[i][j - 1] or dp[i - 2][j]
                     else:
                         dp[i][j] = dp[i-2][j]
-        return dp[-1][-1]
+        return dp[-1][-1] 
 
 
 solution = Solution()
