@@ -47,3 +47,11 @@ This is daily practices for leetcode.
 [Question 44: Wildcard Matching](./python_code/wildcard_matching.py)
 
 [Question 53: Maximum Subarray](./python_code/maximum_subarray.py)
+
+[Question 202: Happy Number](./python_code/happy_number.py)
+
+[Question 203: Remove Linked List Elements](./python_code/remove_linked_list_element.py)
+
+[Question 204: Count Primes](./python_code/count_primes.py)
+
+[Question 455: Assign Cookies](./python_code/assign_cookie.py)
