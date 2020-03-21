@@ -44,6 +44,8 @@ This is daily practices for leetcode.
 
 [Question 28: Implement Str](./python_code/implement_str.py)
 
+[Question 35: Search Insert Position](./python_code/search_insert_position.py)
+
 [Question 44: Wildcard Matching](./python_code/wildcard_matching.py)
 
 [Question 53: Maximum Subarray](./python_code/maximum_subarray.py)
