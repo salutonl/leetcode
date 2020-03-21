@@ -4,6 +4,8 @@ This is daily practices for leetcode.
 
 ## Links
 
+[Question 1: Two sum](./python_code/two_sum.py)
+
 [Question 2: Add two numbers](./python_code/add_two_number.py)
 
 [Question 3: Longest substring without repeating characters](./python_code/longest_substring_without_repeating_characters.py)
