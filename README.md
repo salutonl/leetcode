@@ -48,6 +48,8 @@ This is daily practices for leetcode.
 
 [Question 53: Maximum Subarray](./python_code/maximum_subarray.py)
 
+[Question 83: Remove Duplicates From Sorted List](./python_code/remove_duplicates_from_sorted_list.py)
+
 [Question 202: Happy Number](./python_code/happy_number.py)
 
 [Question 203: Remove Linked List Elements](./python_code/remove_linked_list_element.py)
