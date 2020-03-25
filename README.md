@@ -30,6 +30,8 @@ This is daily practices for leetcode.
 
 [Question 15: Three Sum](./python_code/three_sum.py)
 
+[Question 16: Three Sum Closest](./python_code/3sum_closest.py)
+
 [Question 19: Remove Nth Node From End of List](./python_code/remove_nth_node_from_end.py)
 
 [Question 20: Valid Parentheses](./python_code/valid_parentheses.py)
