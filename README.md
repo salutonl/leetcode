@@ -69,3 +69,5 @@ This is daily practices for leetcode.
 [Question 547: Friend Circles](./python_code/friend_circle.py)
 
 [Question 684: Radundant Connection](./python_code/radundant_connection.py)
+
+[Question 839: Similar String Groups](./python_code/similar_string_group.py)
