@@ -66,4 +66,6 @@ This is daily practices for leetcode.
 
 [Question 455: Assign Cookies](./python_code/assign_cookie.py)
 
+[Question 547: Friend Circles](./python_code/friend_circle.py)
+
 [Question 684: Radundant Connection](./python_code/radundant_connection.py)
